@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          LiberaCore Blog
+description:    ""
 #baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://liberacore.github.io/blog"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         liberacore
+  url:          https://liberacore.github.io
+  email:        
 
 # Build settings
 markdown:       kramdown
